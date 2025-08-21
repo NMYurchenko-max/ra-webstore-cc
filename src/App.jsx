@@ -1,5 +1,5 @@
 import './App.css'
-import ShopItemClass from './components/ShopItemClass/ShopItemClass'
+import ShopItemClass from './components/shopItemClass/ShopItemClass'
 
 function App() {
   const item = {
